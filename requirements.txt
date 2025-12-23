@@ -43,3 +43,4 @@ langchain-google-genai
 langchain-huggingface
 huggingface-hub
 streamlit
+pydantic
