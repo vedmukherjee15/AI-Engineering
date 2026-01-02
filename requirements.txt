@@ -44,3 +44,5 @@ langchain-huggingface
 huggingface-hub
 streamlit
 pydantic
+duckduckgo-search
+langchain_experimental
