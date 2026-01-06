@@ -46,3 +46,4 @@ streamlit
 pydantic
 duckduckgo-search
 langchain_experimental
+langgraph
